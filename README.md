@@ -23,7 +23,7 @@ I would be really happy to receive new chart examples that you consider as missi
 
 Please send me any suggestion to yan.holtz.data@gmail.com OR add the code to the CONTRIBUTION folder through a pull request. Please note that I keep the decision to add the chart or not, since I want to keep the selection of the charts present in the gallery as efficient as possible.
 
-Last but not least, you probably notices that my english is terrible. I apologize for that, and any mistake feedback is welcome!
+Last but not least, you probably notice that my english is terrible. I apologize for that, and if you find any mistake, feedback is always welcome!
 
 Thank you very much for any contribution!
 
@@ -38,14 +38,14 @@ Feel free to reuse any of the chart displayed in the gallery at your convenience
 Acknowledgment
 --------
 There are many people I would like to acknowledge:
-- Creators of [**Matplotlib**](https://matplotlib.org), [**Seaborn**](https://seaborn.pydata.org), and [**Pandas**](http://pandas.pydata.org). Awesome tools, without them python would be way different, and the gallery would not exist. Sometimes, my examples can be close from their documentation, but I always link toward their webpages.
-- Creators of other libraries and blog who accepted that I share their creations.
-- People who already sent me some feedbacks / bug reports / proposition of improvement.
-- People who said me thank you! Without that I would not developp this resource...
+- Creators of [**Matplotlib**](https://matplotlib.org), [**Seaborn**](https://seaborn.pydata.org), and [**Pandas**](http://pandas.pydata.org). Awesome tools, without them python would have been way different, and the gallery would not have existed. Sometimes, my examples can be close to their documentation, but I always link toward their webpages.
+- Creators of other libraries and blog who have accepted that I share their creations.
+- People who have already sent me some feedbacks / bug reports / proposition of improvement.
+- People who have thanked me! Without all this I would not have developed this resource...
 
-- My friend [**Guillaume Guimzu Debreu**](https://www.linkedin.com/in/guillaume-debreu-7b360b125/) without who I would never have had the Idea to make the galleries.
-- My friend [**Conor Healy**](http://www.conor.fr), best designer ever, who did the awesome set of Logo.
+- My friend [**Guillaume Guimzu Debreu**](https://www.linkedin.com/in/guillaume-debreu-7b360b125/) without whom I would never have had the Idea to make the galleries.
+- My friend [**Conor Healy**](http://www.conor.fr), the bestest of all designers ever, who designed the awesome set of Logo.
 - My friend **Jean-Phi** for his precious advices.
-- My wife **Mel Mulot** who bears me even when I code by night
-- All my english speaker friends who correct me with patience (Lou Papéou, Annie-Rose, Cherelle, Kath, Shenfa)
+- My wife **Mel Mulot** who bears me even when I code during night
+- All those friends who correct my English patiently (Lou Papéou, Annie-Rose, Cherelle, Kath, Shenfa)
 
